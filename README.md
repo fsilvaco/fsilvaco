@@ -4,7 +4,7 @@
 
 **About me:**
 - 💻 I'm currently working with NodeJS, React and TypeScript.
-- 🚀 I'm a Software Develop at [Calindra](https://calindra.tech/)
+- 🚀 I'm a Software Developer at [Calindra](https://calindra.tech/)
 - 🌱 I'm currently learning React Native and Flutter
 - 📝 I'm currently graduating in Information Systems 
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/fsilvaco/)
